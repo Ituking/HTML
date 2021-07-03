@@ -1,0 +1,15 @@
+/* これはコメントです */
+h1 {
+    width: 500px;
+    height: 100px;
+    background-color: #ddd;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+.select {
+    color: red;
+}
